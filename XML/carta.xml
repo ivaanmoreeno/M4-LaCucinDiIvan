@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<!-- Entrantes -->
+<platos>  
+  <entrante nombre="Bruschetta" 
+  precio="5.50 €" 
+  descripcion="Rebanada de pan tostado con tomate, ajo y albahaca"
+  calorias="150 kcal"
+   caracteristicas="  🥦❌🥖">
+<ingrediente nombre="Pan rústico" />
+  <ingrediente nombre="Tomates frescos" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Albahaca fresca" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Sal" />
+  </entrante>
+
+<entrante nombre="Caprese"
+  precio="7.00 €"
+  descripcion="Ensalada de tomate, mozzarella fresca y albahaca con aceite de oliva"
+  calorias="250 kcal"
+  caracteristicas="  🥦❌🥖">
+    <ingrediente nombre="Tomates frescos" />
+  <ingrediente nombre="Mozzarella fresca" />
+  <ingrediente nombre="Albahaca fresca" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Vinagre balsámico" />
+  <ingrediente nombre="Sal" />
+</entrante>
+
+<entrante nombre="Carpaccio di manzo"
+  precio="8.50 €"
+  descripcion="Finas láminas de solomillo de ternera con rúcula, parmesano y aceite de oliva"
+  calorias="200 kcal"
+  caracteristicas= " 🥩">
+  <ingrediente nombre="Filete de ternera" />
+  <ingrediente nombre="Rúcula" />
+  <ingrediente nombre="Queso parmesano" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Mostaza dijon" />
+  <ingrediente nombre="Jugo de limón" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+</entrante>
+
+<entrante
+  nombre="Antipasto misto"
+  precio="10.50 €"
+  descripcion="Tabla de embutidos italianos, quesos y verduras asadas"
+  calorias="400 kcal"
+  caracteristicas=" 🥩">
+  <ingrediente nombre="Jamón" />
+  <ingrediente nombre="Salami" />
+  <ingrediente nombre="Prosciutto" />
+  <ingrediente nombre="Queso provolone" />
+  <ingrediente nombre="Queso mozzarella" />
+  <ingrediente nombre="Aceitunas" />
+  <ingrediente nombre="Pimientos asados" />
+  <ingrediente nombre="Alcachofas marinadas" />
+  <ingrediente nombre="Tomates secos" />
+  <ingrediente nombre="Orégano" />
+  <ingrediente nombre="Sal" />
+</entrante>
+
+<!-- Postres -->
+
+<postres nombre="Tiramisú"
+precio="6.00 €"
+descripcion="Postre de capas de bizcocho de soletilla empapado en café y crema de mascarpone"
+calorias="350 kcal"
+caracteristicas=" 🥦">
+<ingrediente nombre="Queso mascarpone" />
+  <ingrediente nombre="Huevos" />
+  <ingrediente nombre="Azúcar" />
+  <ingrediente nombre="Café espresso" />
+  <ingrediente nombre="Licor Amaretto" />
+  <ingrediente nombre="Bizcochos de soletilla" />
+  <ingrediente nombre="Cacao en polvo" />
+</postres>
+  
+<postres nombre="Panna cotta"
+precio="5.50 €"
+descripcion="Postre cremoso de nata y vainilla con coulis de frutos rojos"
+calorias="400 kcal "
+caracteristicas=" 🥦❌🥖">
+<ingrediente nombre="Nata líquida" />
+  <ingrediente nombre="Azúcar" />
+  <ingrediente nombre="Gelatina en láminas" />
+  <ingrediente nombre="Vainilla" />
+  <ingrediente nombre="Frutas rojas para decorar" />
+  <ingrediente nombre="Menta fresca para decorar" />
+</postres>
+
+<postres nombre="Cannoli Siciliani"
+precio="4.50 €"
+descripcion="Tubos de masa frita rellenos de queso ricotta endulzado y decorados con trocitos de chocolate y pistachos picados"
+calorias="250 kcal"
+caracteristicas="❌🥖">
+<ingrediente nombre="Harina de trigo" />
+<ingrediente nombre="Manteca de cerdo" />
+<ingrediente nombre="Azúcar" />
+<ingrediente nombre="Vino Marsala" />
+<ingrediente nombre="Queso Ricotta" />
+<ingrediente nombre="Chocolate negro picado" />
+<ingrediente nombre="Pistachos picados" />
+</postres> 
+
+<postres nombre="Zabaione"
+precio="5.50 €"
+descripcion="Postre italiano hecho con yemas de huevo batidas con azúcar y vino Marsala, servido caliente"
+calorias="250 kcal"
+caracteristicas="❌🥖">
+<ingrediente nombre="Yemas de huevo" />
+<ingrediente nombre="Azúcar" />
+<ingrediente nombre="Vino Marsala" />
+<ingrediente nombre="Canela en polvo" />
+</postres>
+
+
+
+<!-- Primeros  -->
+
+
+<primero nombre="Spaghetti alla carbonara"
+    precio="12.00 €"
+    descripcion="Pasta con huevo, pancetta, queso pecorino y pimienta negra"
+    calorias="500 kcal"
+    caracteristicas=" 🥩 ">
+    <ingrediente nombre="Spaghetti" />
+  <ingrediente nombre="Panceta" />
+  <ingrediente nombre="Huevos" />
+  <ingrediente nombre="Queso parmesano" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+  </primero>
+
+
+  <primero nombre="Pasta all'arrabbiata"
+ precio="9.50 €"
+ descripcion="Pasta con salsa picante de tomate y guindilla"
+ calorias="350 kcal"
+ caracteristicas=" 🥦">
+ <ingrediente nombre="Pasta corta" />
+  <ingrediente nombre="Tomates pelados" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Guindilla" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Perejil fresco" />
+  <ingrediente nombre="Sal" />
+</primero>
+
+<primero nombre="Fusilli con salsa de calabacín y ajo"
+precio="13.00 €"
+descripcion="Pasta fusilli con una deliciosa salsa de calabacín y ajo, salteado en aceite de oliva y decorado con queso parmesano rallado"
+calorias="600 kcal"
+caracteristicas=" 🥦">
+<ingrediente nombre="Fusilli" />
+  <ingrediente nombre="Calabacín" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Cebolla" />
+  <ingrediente nombre="Tomates cherry" />
+  <ingrediente nombre="Queso parmesano rallado" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+  <ingrediente nombre="Albahaca fresca para decorar" />
+</primero>
+
+<primero nombre="Lasaña alla Bolognese"
+ precio="12.50 €"
+ descripcion="Plato de pasta con carne picada, bechamel y salsa de tomate"
+ calorias="550 kcal"
+ caracteristicas="  🥩">
+ <ingrediente nombre="Láminas de lasaña" />
+  <ingrediente nombre="Carne picada" />
+  <ingrediente nombre="Cebolla" />
+  <ingrediente nombre="Zanahoria" />
+  <ingrediente nombre="Apio" />
+  <ingrediente nombre="Tomate triturado" />
+  <ingrediente nombre="Vino tinto" />
+  <ingrediente nombre="Leche" />
+  <ingrediente nombre="Queso parmesano rallado" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+</primero>
+
+<primero nombre="Risotto ai funghi"
+ precio="11.50 €"
+ descripcion="Risotto con setas y parmesano"
+ calorias="450 kcal"
+ caracteristicas=" 🥦">
+ <ingrediente nombre="Arroz arborio" />
+  <ingrediente nombre="Setas frescas" />
+  <ingrediente nombre="Cebolla" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Vino blanco seco" />
+  <ingrediente nombre="Caldo de pollo" />
+  <ingrediente nombre="Queso parmesano rallado" />
+  <ingrediente nombre="Mantequilla" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+  <ingrediente nombre="Perejil fresco para decorar" />
+</primero>
+
+
+<!-- Segundos -->
+
+
+<segundo
+ nombre="Pizza Margherita"
+ precio="9.50 €"
+ descripcion="Masa de pizza con salsa de tomate, mozzarella y albahaca fresca"
+ calorias="800 kcal"
+ caracteristicas=" 🥦">
+ <ingrediente nombre="Masa de pizza" />
+  <ingrediente nombre="Tomates frescos" />
+  <ingrediente nombre="Mozzarella fresca" />
+  <ingrediente nombre="Albahaca fresca" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Sal" />
+</segundo>
+
+<segundo
+ nombre="Pollo alla cacciatora"
+ precio="14.50 €"
+ descripcion="Pollo guisado con tomate, pimiento, cebolla y aceitunas"
+ calorias="500 kcal"
+ caracteristicas=" 🥩">
+ <ingrediente nombre="Pollo troceado" />
+  <ingrediente nombre="Cebolla" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Pimiento rojo" />
+  <ingrediente nombre="Tomate triturado" />
+  <ingrediente nombre="Vino tinto" />
+  <ingrediente nombre="Caldo de pollo" />
+  <ingrediente nombre="Aceitunas negras" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+  <ingrediente nombre="Romero fresco" />
+  <ingrediente nombre="Perejil fresco para decorar" />
+</segundo>
+
+<segundo
+ nombre="Osso buco alla milanese"
+ precio="18.00 €"
+ descripcion="Rabo de ternera guisado con vino blanco y tomate, servido con risotto alla milanese"
+ calorias="700 kca 🥩">
+ <ingrediente nombre="Ternera en rodajas (ossobuco)" />
+  <ingrediente nombre="Harina" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Mantequilla" />
+  <ingrediente nombre="Cebolla" />
+  <ingrediente nombre="Zanahoria" />
+  <ingrediente nombre="Apio" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Tomate triturado" />
+  <ingrediente nombre="Caldo de carne" />
+  <ingrediente nombre="Vino blanco seco" />
+  <ingrediente nombre="Ralladura de limón" />
+  <ingrediente nombre="Azafrán" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+  <ingrediente nombre="Perejil fresco para decorar" />
+</segundo>
+
+<segundo
+ nombre="Calamari alla griglia"
+ precio="16.50 €"
+ descripcion="Calamares a la plancha con aceite de oliva, ajo y limón"
+ calorias="400 kcal"
+ caracteristicas=" 🐟">
+ <ingrediente nombre="Calamares frescos limpios" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Limón" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Perejil fresco" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+</segundo>
+
+<segundo
+ nombre="Branzino al forno"
+ precio="19.00 €"
+ descripcion="Lubina al horno con aceite de oliva, limón y patatas al romero"
+ calorias="600 kcal"
+ caracteristicas=" 🐟">
+ <ingrediente nombre="Lubina entera" />
+  <ingrediente nombre="Limón" />
+  <ingrediente nombre="Ajo" />
+  <ingrediente nombre="Perejil fresco" />
+  <ingrediente nombre="Tomillo fresco" />
+  <ingrediente nombre="Aceite de oliva" />
+  <ingrediente nombre="Sal" />
+  <ingrediente nombre="Pimienta negra" />
+</segundo>
+
+
+</platos>
